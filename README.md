@@ -1,4 +1,4 @@
-# 😃 Software Engineering
+# Software Engineering😎
 I am embarking on a lovely journey.
-## Skills
+## Skills🧾
 Git, C, Python, html,
